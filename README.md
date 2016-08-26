@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello!
+
+Jie is here. I am learing python and ML.
